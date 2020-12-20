@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fiction reader</string>
+    <string name="mainscreen_nofiction">No fiction</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menuItemFivorite">Fivorite</string>
+    <string name="menuItemRecommend">Recommend</string>
+
+    <string name="favorite_nofiction">No fiction.</string>
+</resources>
